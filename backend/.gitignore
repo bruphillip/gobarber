@@ -1,0 +1,12 @@
+# Node_Modules
+/node_modules/
+.env
+
+# Lock Files
+.package-lock.json
+yarn.lock
+yarn-error.log
+
+# Images
+
+/tmp/
